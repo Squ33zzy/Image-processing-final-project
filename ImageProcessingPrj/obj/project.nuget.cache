@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8IYLj8iZ9UK+U/Rh7MP03WWvm2m14caS/OjssDxdvyB4vX17TNlL13uKJNslgxL3I2ToPf5+yuB6zecwrCaC4w==",
+  "success": true,
+  "projectFilePath": "E:\\ImageProcessingPrj\\ImageProcessingPrj\\ImageProcessingPrj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huy Anh\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Huy Anh\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Huy Anh\\.nuget\\packages\\opencvsharp3-anycpu\\4.0.0.20181129\\opencvsharp3-anycpu.4.0.0.20181129.nupkg.sha512",
+    "C:\\Users\\Huy Anh\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
